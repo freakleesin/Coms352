@@ -1,0 +1,9 @@
+# Com S 352 Project 2
+
+# synchronization of multiple threads
+
+Usage:
+'make' command can compile the program
+Command './encrypt352 input_file output_file' to encrypt the file.
+
+This program is to read characters from an input source -> encrypt -> write the encrypted characters to an output. Also, the encryption program will print out the number of occurrences of each letter in the input and output files.
